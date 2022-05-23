@@ -6,7 +6,7 @@ import Header from "../../components/Header/Header";
 import MailList from "../../components/MailList/MailList";
 import Navbar from "../../components/Navbar/Navbar";
 import PropertyList from "../../components/PropertyList/PropertyList";
-
+import "./Home.css";
 const Home = () => {
   return (
     <div>

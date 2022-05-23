@@ -76,7 +76,6 @@
 
 .headerIconCursor {
     color: gray;
-    cursor: pointer;
 }
 
 .headerSearchInput {
@@ -86,6 +85,7 @@
 
 .headerSearchText {
     color: gray;
+    cursor: pointer;
 }
 
 .date {
